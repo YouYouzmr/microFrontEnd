@@ -3,5 +3,4 @@
 **/.history/*
 **/.vscode/*
 **.idea/*
-
-/work_platform_pc
+**/dist/*
